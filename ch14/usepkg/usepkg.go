@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"goproject/usepkg/custompkg"
-	"goproject/usepkg/usepkg/custompkg"
 
 	"github.com/guptarohit/asciigraph"
 	"github.com/tuckersGo/musthaveGo2/ch14/expkg"

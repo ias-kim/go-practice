@@ -1,4 +1,4 @@
-package koreapost
+package koreaPost
 
 import "fmt"
 

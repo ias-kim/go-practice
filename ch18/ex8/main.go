@@ -3,7 +3,6 @@ package main
 type Stringer interface {
 	String() string
 }
-
 type Student struct {
 
 }
